@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hola, soy Federico
 
-<!--
-**federicoaranda19-hub/federicoaranda19-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 Sobre mí
 
-Here are some ideas to get you started:
+Soy estudiante de Tecnicatura en Desarrollo de Software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Actualmente aprendiendo
+
+- Python
+- Django
+- Desarrollo web
+- Bases de datos
+- Git y GitHub
+
+## 🚀 Proyecto
+
+- **TepyCheck** – Proyecto de desarrollo de software
+
+## 📚 Formación
+
+Tecnicatura en Desarrollo de Software
+
+## 🎯 Intereses
+
+- Desarrollo de software
+- Programación
+- Bases de datos
+- Desarrollo web
